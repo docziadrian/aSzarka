@@ -1,0 +1,53 @@
+body{
+    background-color: aliceblue !important;
+    color: darkblue !important;
+}
+
+a, h2 {
+    color: crimson;
+}
+
+header{
+    text-align: center;
+}
+
+header > hr{
+    width: 70%;
+}
+
+.sima_tabla{
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    width: 400px;
+
+}
+
+.besorolas_tabla{
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    padding: 6px;
+
+}
+
+h3{
+    margin: auto;
+    width: 40%;
+    background-color: black;
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+
+#kozepre{
+    text-align: center;
+}
+
+
+
+
+#szarka_eletmodja{
+    float: right;
+    border: 1px solid black;
+}
